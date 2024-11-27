@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
 #ihopsyrupyfootie {
-    font-family:"Afacad Flux";
     align-content: center;
     color: #ff0000;
 }
 body {
     background-color: #378b29;
+    font-family:"Afacad Flux";
 }
 .rawr {
     float: left;

@@ -2,7 +2,14 @@
 #ihopsyrupyfootie {
     font-family:"Afacad Flux";
     align-content: center;
-    background-color: #378b29;
     color: #ff0000;
-    
+}
+body {
+    background-color: #378b29;
+}
+.rawr {
+    flex: 50%;
+}
+.meow {
+    display: flex;
 }

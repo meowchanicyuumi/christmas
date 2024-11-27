@@ -19,5 +19,11 @@ body {
     clear: both;
 }
 .meow {
-    background-color:#82878b
+    background-color:#82878b74
+}
+.bignibba {
+    background-color: #82878b74
+}
+.bignibba h3 {
+    font-size: 35px;
 }
